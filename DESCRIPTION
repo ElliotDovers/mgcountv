@@ -1,0 +1,19 @@
+Package: mgcountv
+Type: Package
+Title: Additional zero-Inflated And Hurdle Count Distributions For mgcv
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Elliot", "Dovers",
+      email = "elliot.dovese@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    mgcv
+Config/roxygen2/version: 8.1.0
